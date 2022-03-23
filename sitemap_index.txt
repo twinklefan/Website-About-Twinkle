@@ -1,1 +1,7 @@
-https://twinklefan.github.io/Website-About-Twinkle/
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://twinklefan.github.io/Website-About-Twinkle/">
+  <url>
+    <loc>https://twinklefan.github.io/Website-About-Twinkle/index.html</loc>
+    <lastmod>23/03/2022</lastmod>
+  </url>
+</urlset>
