@@ -9,5 +9,4 @@ This is a website about...
 
 btw this was also my first website using parallax 
 
-the link for the website:
-https://twinklefan.github.io/Website-About-Twinkle/
+website: https://twinklefan.github.io/Website-About-Twinkle/
